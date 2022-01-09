@@ -15,4 +15,4 @@ print("Hello, World!")
 
 ```
 
-Herramientas -> ###[Click](https://minicompi4.github.io/scripts).
+Herramientas -> [Click](https://minicompi4.github.io/scripts).
