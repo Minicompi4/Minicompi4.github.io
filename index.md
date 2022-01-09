@@ -15,6 +15,6 @@ print("Hello, World!")
 
 ```
 
-Herramientas -> [Click](https://minicompi4.github.io/scripts).
+### Herramientas -> [Click](https://minicompi4.github.io/scripts).
 
-Activar modo monitor en Kali/Parrot -> [Click](https://minicompi4.github.io/monitor).
+### Activar modo monitor en Kali/Parrot -> [Click](https://minicompi4.github.io/monitor).
