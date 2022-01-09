@@ -1,7 +1,7 @@
 ## Activar modo monitor en Kali/Parrot.
 
-```markdown
-  
+
+```markdown 
 Lo primero que necesitamos hacer es saber cual es nuestra tarjeta Wireless 
 Utilizaremos el siguiente comando :   #iwconfig 
 
@@ -30,6 +30,6 @@ Para montar la tarjeta wireless en modo monitor
 
 
 Ahora estará lista para su uso.
+```
 
-
-Volver -> [click](https://minicompi4.github.io)
+#Volver -> [click](https://minicompi4.github.io)
