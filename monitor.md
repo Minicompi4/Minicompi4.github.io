@@ -32,4 +32,4 @@ Para montar la tarjeta wireless en modo monitor
 Ahora estará lista para su uso.
 ```
 
-#Volver -> [click](https://minicompi4.github.io)
+Volver -> [click](https://minicompi4.github.io)
